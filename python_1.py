@@ -17,3 +17,13 @@ print("type of (2+3j) is",type(2+3j))
 
 #2. strings
 print("Hello, world")
+
+#3. variables
+data = 12
+nacht_bitje = "niet schoon"
+
+
+#4. lists
+#variable met meerdere waardes er in
+tas = ["waterfles", "boeken" , "kleding"]
+print(tas)
